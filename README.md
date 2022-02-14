@@ -1,4 +1,4 @@
-# 📘 template-IEEE
+# 📜 template-IEEE
 
 📜 Template of IEEE format documents by LaTeX.
 
