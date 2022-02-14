@@ -1,6 +1,6 @@
 # 📘 template-IEEE
 
-Template of IEEE format documents by LaTeX.
+📜 Template of IEEE format documents by LaTeX.
 
 
 ## 🏯 ビルド / Build
