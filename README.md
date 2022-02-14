@@ -1,4 +1,4 @@
-# IEEE Template
+# 📘 template-IEEE
 
 Template of IEEE format documents by LaTeX.
 
@@ -51,14 +51,15 @@ git push origin v0.0.0
 ```
 
 
-## References / 参考文献
+## 🔖 References / 参考文献
 
-+ [IEEE](https://www.ieee.org/conferences/publishing/templates.html)
+- [IEEE - Manuscript Templates for Conference Proceedings](https://www.ieee.org/conferences/publishing/templates.html)
 
 
+<!--
 ## 🍋 License / ライセンス
 
 Copyright (c) 2021-2022 k5-mot All Rights Reserved.
 
-"k5-mot/handout-template" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
-
+"k5-mot/template-IEEE" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+-->
